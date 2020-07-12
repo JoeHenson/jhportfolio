@@ -1,0 +1,213 @@
+{
+  "main": {
+    "name":"Joe Henson",
+    "occupation":"Technology and Product Executive",
+    "description":"with a bias for action, building great teams, leading cross-functional teams, proactively listening, bridging the geek speak to business speak, and driving results",
+    "image":"profilepic.jpg",
+    "bio":"Growing profitability by leveraging my product and technology leadership with expertise in building leading-edge products in Agile environments worldwide is my passion. Working across an organization as a business partner, creating the strategic alliances that enable successful transformation, mission alignment and customer satisfaction is my specialty. A turnaround specialist, I translate “geek speak” into “business speak” by merging my business and technical expertise with the ability to select the technologies required for business success that grows business value. I lead from the front, enthusing teams and environments with a forward thinking, entrepreneurial mindset that fosters collaboration, motivation and customer-centric change",
+    "contactmessage":"Let's connect soon.",
+    "email": "JoeHenson@gmail.com",
+    "phone": "773.551.1438",
+    "address":{
+      "street":"7327 Holly Court",
+      "city":"River Forest",
+      "state":"IL",
+      "zip": "60305",
+      "displayCity":"Chicago"
+    },
+    "website": "http://www.joehenson.me (coming soon)",
+    "resumedownload":"https://www.linkedin.com/in/joehenson/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/joehenson",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/joehenson",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joehenson/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/joehenson23/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/joehenson",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Triad Retail Media (a WPP company)",
+        "title":"Senior Vice President Product & Platforms",
+        "years":"December 2017 - December 2019",
+        "description1":"Recruited to create a Product organization. In the first 3 months, turned low-performing department into a high performing team. Turned low-performing department into success after 3 months through effective restructuring. Identified and mentored new team members to ensure continuous delivery during the restructuring.",
+        "description2":"Launched Triad's first media product, an AI/data driven programmatic media platform that generated $5M in the first year.  The platform took multiple datasets in and determined which retailers the CPG Brands should be investing their media dollars in based on sales in a geography and then found audiences that the Brand should target. The platform's machine learning algorithms continuously optimized the campaigns based on performance and sales data at a local level. ",
+        "description3":"Strategic advisor on new e-commerce and media products for leading retailers that included Walmart, Sam's Club, CVS, Bed Bath and Beyond, Kohls, Office Depot, and many others."
+      },
+      {
+        "company":"Catalina Marketing",
+        "title":"Group VP, Technology & Product Platforms",
+        "years":"January 2013 - November 2017",
+        "description1":"Picked by the CEO to lead the strategic re-platform of Catalina's core platform of 500,000+ in-store printers and the supporting global platform infrastructure that leveraged real-time POS data, leveraged 3 years of consumer purchase data, and supported custom AI/ML algorithms. Bringing 30 years of ad hoc systems together into one unified platform that enable omni-channel campaigns, real-time decisioning and operational efficiencies.",
+        "description2":"Led Agile implementation and execution - drove productivity, improved delivery estimates by 70%, allowed for greater flexibility to pivot directions based on dynamic organizational needs. Reduced number of active projects by 50%, which enabled the organization to focus and smarter investment of the $45M capital budget. Also eliminated waste through resource capacity evaluation and planning."
+      },
+      {
+        "company":"",
+        "title":"Group Vice President & General Manager Digital",
+        "years":"August 2009 - January 2013",
+        "description1":"Led Catalina's Digital Rewards business centered on a SaaS platform delivering personalized syndicated digital media to retailers and publishers' websites, mobile apps, and email solutions. Launched a digital coupon solution for Target in the first 4 months at Catalina. Led the product and technology review of a company we acquired and re-platformed their technnology stack over 12 a month period that powered Target.com digital coupon site, B2C coupon sites in the US, Japan and France.",
+        "description2":"Repositioned and refocused groups' alignment, reversing potential $9M loss within three months; got it back to plan and then to the budgeted investment amount. Managed global cross-functional teams to successfully deliver global products and platforms in France, UK, Japan, and the US. Built and strengthened productive and valuable industry partnerships to drive collaboration, engagement, and revenue stream development."
+      },
+      {
+        "company":"Calumet Photographic",
+        "title":"Chief Technology Officer & GM Global Ecommerce",
+        "years":"August 2007 - August 2009",
+        "description1":"Responsible for and set global technology vision, strategy, P&L and product roadmap of Ecommerce and Technology teams, while serving as key member of Calumet's Board of Directors.",
+        "description2":"Provided strategic direction for CalumetPhoto.com, an Internet Retailer Top 500 site, along with three global e-commerce sites (UK, Germany, Netherlands). Accountable for performance of the sales in the web channel, email and interactive marketing. ",
+        "description3":"Grew ecommerce revenue from 8% of total company revenue to 10% during a major recession period. Grew top line revenue by 2% and increased profitability of each new customer by 20% through transforming marketing approach to generate a positive Return-on-Ad Spend from one that lost money on every new customer. Conducted global ecommerce platform evaluation/selection for international Ecommerce needs, including Demandware, Big Commerce and Venda"
+      },
+      {
+        "company":"Q Interactive (aka CoolSavings.com)",
+        "title":"Senior Vice President Technology/CTO",
+        "years":"December 1997 - August 2007",
+        "description1":"Internet's first Digital Coupon SaaS platform and leading provider of consumer acquisition solutions. CoolSaving led the digital transformation of the CPG coupon space starting in 1997.  Instrumental in catapulting company growth from a 10-person start-up to over 300 employees and a $100M company.",
+        "description2":"Set technology vision, strategy, and road map to achieve success and business alignment by working closely with cross-functional teams to prioritize, plan and schedule the release of new products and enhancements.Managed all aspects of 50+ member technology and engineering team, including Development, Quality Assurance, Technology Operations, Database, Architecture, Networking, Business Analysts and Project Management teams.",
+        "description3":"Conducted technology due diligence for M&A activities, consisting of gap analysis, staff integration, technologies and evaluation of technology processes. Enabling a scaled and stable environment. Project Management and Agile Execution: Developed and executed the Project Management methodology and Agile Software Development Life Cycle (SDLC)."
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RoboFriends",
+        "category":"Hello Robots",
+        "image":"robofriends.png",
+        "url":"https://joehenson.github.io/robofriends/"
+      },
+      {
+        "title":"Product Manager Attributes-what makes a great Product Manager; Contact me for a copy",
+        "category":"Product Management",
+        "image":"Product-Manager-Attributes.png",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Joe may have been the most natural leader I ever had the honor of working with. His ability to drive change, efficiency and effectiveness, while still focusing on his staff and their needs, was incredible.",
+        "user":"Team member"
+      },
+      {
+        "text":"The only person I will take to my clients is Joe, I don't want the Chief Product Officer, Chief Technology Officer or any other Chiefs - only Joe!  The reasons are that he listens, is customer focused, provides solutions, and delivers.",
+        "user":"SVP, Retail Sales"
+      },
+      {
+        "text":"In my career I have had the honor of working with some amazing team leads. I would put Joe at the top of my list. His leadership and partner-oriented personality allowed us access to some of the best of class technologies in the market. Joe just simply has the type of creative forward thinking that companies love to work with.",
+        "user":"Team member"
+      }
+    ]
+  },
+  "quotes":{
+    "quotes": [
+      {
+        "title":"Einstein Quote",
+        "category":"business",
+        "image":"EinsteinQuote.png",
+        "url":""
+      },
+      {
+        "title":"Fool with a Tool",
+        "category":"business",
+        "image":"FoolwithaTool.jpg",
+        "url":""
+      },
+      {
+        "title":"Not my Job",
+        "category":"business",
+        "image":"Professionalism.jpg",
+        "url":""
+      },
+      {
+        "title":"Perfection",
+        "category":"business",
+        "image":"PerfectIstheEnemyofGood.png",
+        "url":""
+      },
+      {
+        "title":"Succes is a Journey",
+        "category":"business",
+        "image":"Success_is_a_Journey.jpg",
+        "url":""
+      },
+      {
+        "title":"W.A.I.T - Why Am I Talking",
+        "category":"business",
+        "image":"WhyAmITalking.png",
+        "url":""
+      },
+      {
+        "title":"Punch in the face",
+        "category":"business",
+        "image":"Tyson_Quote.jpg",
+        "url":""
+      }
+    ]
+  }
+}
