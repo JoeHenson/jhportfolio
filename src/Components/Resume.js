@@ -38,8 +38,7 @@ class Resume extends Component {
         </div>
     </div>
 
-
-
+{/*
       <div className="row skill">
 
          <div className="three columns header-col">
@@ -51,13 +50,15 @@ class Resume extends Component {
             <p>{skillmessage}
             </p>
 
-				<div className="bars">
-				   <ul className="skills">
-					  {skills}
-					</ul>
-				</div>
-			</div>
+				    <div className="bars">
+                <ul className="skills">
+                  {skills}
+                </ul>
+            </div>
+			   </div>
       </div>
+*/}
+
    </section>
     );
   }
